@@ -1,7 +1,7 @@
 // array
 
 const myArr = [0, 1, 2, 3, 4, 5]
-const myHeors = ["shaktiman", "naagraj"]
+const myHeros = ["shaktiman", "naagraj"]
 
 const myArr2 = new Array(1, 2, 3, 4)
 // console.log(myArr[1]);
@@ -18,7 +18,7 @@ const myArr2 = new Array(1, 2, 3, 4)
 // console.log(myArr.includes(9));
 // console.log(myArr.indexOf(3));
 
-// const newArr = myArr.join()
+ const newArr = myArr.join()
 
 // console.log(myArr);
 // console.log( newArr);
